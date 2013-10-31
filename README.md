@@ -1,10 +1,10 @@
 # Augmented Reality
 
-## Simple projects to learn AR using OpenCV libraries
+### Simple projects to learn AR using OpenCV libraries
 
-Author: Domenico Leone Luciani
+#### Author: Domenico Leone Luciani
 
-email: domenicoleoneluciani@gmail.com
+#### Email: domenicoleoneluciani@gmail.com
 
-### Status: Work in Progress
+#### Status: Work in Progress
 
